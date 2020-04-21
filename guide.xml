@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E [Brazil]">
+    <display-name lang="pt">A&amp;E [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Amazon Sat [Brazil]">
+    <display-name lang="pt">Amazon Sat [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC [Brazil]">
+    <display-name lang="pt">AMC [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet [Brazil]">
+    <display-name lang="pt">Animal Planet [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 [Brazil]">
+    <display-name lang="pt">Arte 1 [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [Brazil]">
+    <display-name lang="pt">AXN [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
